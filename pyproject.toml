@@ -10,9 +10,11 @@ python = "^3.10"
 typer = "^0.4.2"
 rich = "^12.4.4"
 npTDMS = "^1.5.0"
+pydantic = "^1.9.1"
+pandas = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^7.1.2"
 black = "^22.6.0"
 
 [build-system]
